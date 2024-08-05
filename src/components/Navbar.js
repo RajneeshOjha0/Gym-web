@@ -14,7 +14,7 @@ const Navbar = () => {
         <Link to='/' style={{textDecoration:'none', colors:'#3A1212', borderBottom:'3px solid #FF2625',marginBottom:"40px"} }>Home</Link>
         <a href='#exercise' style={{textDecoration:'none',color:'#3A1212',marginBottom:"40px"}}>Exercises</a>
       </Stack>
-    </Stack>
+    </Stack>  
   )
 }
 
